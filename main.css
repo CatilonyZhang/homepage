@@ -707,7 +707,7 @@ pre>code {
     background-image: url("images/images/beauty2.png");
     background-size: cover;           /* 全屏覆盖 */
     background-repeat: no-repeat;
-    background-position: 88% 17%;     /* 水平更靠右，垂直保持你喜欢的 25% */
+    background-position: 88% 30%;     /* 水平更靠右，垂直保持你喜欢的 25% */
     image-rendering: auto;            /* 保持原清晰度 */
 }
 
